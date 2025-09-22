@@ -37,6 +37,7 @@ Benchmarks were run on an Intel i5 (11th Gen) CPU using automated scripts.
 
 ```bash
 ./main ../res/uhren_tum.ppm -o output.pgm -V 2 --coeffs 2,3,1
+```
 
 ---
 
