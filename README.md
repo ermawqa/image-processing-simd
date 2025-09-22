@@ -42,13 +42,13 @@ Benchmarks were run on an Intel i5 (11th Gen) CPU using automated scripts.
 ---
 
 ## 🛠️ Technologies Used
-	•	C/C++
-	•	Netpbm image format
-	•	SIMD intrinsics: SSE, AVX
-	•	Benchmarking with gettimeofday
-	•	Memory checks: Valgrind, Sanitizer
+-	C/C++
+-	Netpbm image format
+-	SIMD intrinsics: SSE, AVX
+-	Benchmarking with gettimeofday
+-	Memory checks: Valgrind, Sanitizer
 
 ## 👥 Contributors
-	•	Cagatay Cem Aksoy
-	•	Ron Spannagel
-	•	Yermukhamed Shakhman
+-	Cagatay Cem Aksoy
+-	Ron Spannagel
+-	Yermukhamed Shakhman
